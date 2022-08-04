@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm De'Quan! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+   - [Keylogger](https://github.com/DeQuan55/)
+
+<h2>👨‍💻 Python Projects:</h2>
+  
+  - ["Hello World!"](https://github.com/DeQuan55/)
+
+<h2>📺 YouTube Videos</h2>
+
+
+
+
 
 <!--
-**DeQuan55/DeQuan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
